@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/604253458/Disable Apps-app.iml" filepath="$PROJECT_DIR$/.idea/modules/604253458/Disable Apps-app.iml" group="Disable Apps/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1896606336/Disable_Apps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1896606336/Disable_Apps.iml" group="Disable_Apps" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Disable-Apps.iml" filepath="$PROJECT_DIR$/.idea/modules/Disable-Apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Disable-Apps.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Disable-Apps.app.iml" />
     </modules>
   </component>
 </project>
